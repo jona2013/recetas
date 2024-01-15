@@ -1,0 +1,64 @@
+ 
+#nav-container{
+    border: 3px solid rgb(16, 36, 218);
+    border-radius: 20px;
+    color: rgb(16, 36, 218);
+    background-color: rgb(16, 36, 218);
+}
+
+li{
+    display: inline;
+   
+}
+a{
+    color: white;
+    margin: 50px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+h1{
+    position: relative;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+#logo{
+    width: 250px;
+    right: 250px;
+}
+
+
+#salsa{
+    
+    width: 250px;
+    right: 150px;
+    margin: 18px;
+    
+}
+    
+#uchuva{
+    width: 150px;
+    right: 300px;
+}
+
+#uchuva-pimenton{
+    position: relative;
+    width: 300px;
+    right: 3000x;
+    left: 500px;
+}
+
+.ingredients{
+    border: 2px solid black
+}
+
+video{
+    position: relative;
+    right: 900px;
+    width: 300px;
+    left: 500px;
+
+}
